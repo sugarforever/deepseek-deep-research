@@ -11,7 +11,7 @@ Deep Research 是一款专为应对复杂问题而设计的高效工具，利用
 
 ## 环境准备
 
-- uv 包管理工具，可参考[安装文档](https://docs.astral.sh/uv/)  ```
+- uv 包管理工具，可参考[安装文档](https://docs.astral.sh/uv/)
 
 - <a target="_blank" href="https://console.volcengine.com/ark/region:ark+cn-beijing/apiKey">获取火山方舟 API KEY</a> | <a target="_blank" href="https://www.volcengine.com/docs/82379/1298459#api-key-%E7%AD%BE%E5%90%8D%E9%89%B4%E6%9D%83">参考文档</a>
 - 在<a target="_blank" href="https://console.volcengine.com/ark/region:ark+cn-beijing/openManagement?LLM=%7B%7D&OpenTokenDrawer=false">开通管理页</a>开通 DeepSeek-R1 模型。
