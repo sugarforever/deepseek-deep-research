@@ -11,9 +11,18 @@ Deep Research 是一款专为应对复杂问题而设计的高效工具，利用
 
 ## 视频演示 (Video Demonstration)
 
-本仓库包含一个视频演示，展示了如何使用 DeepSeek 和火山引擎搭建深度研究应用。您可以通过以下方式观看视频：
+本仓库包含一个视频演示，展示了如何使用 DeepSeek 和火山引擎搭建深度研究应用。
 
-1. 直接在 GitHub 上查看：[DeepSeek + 火山引擎搭建深度研究应用.mp4](video/DeepSeek%20%2B%20%E7%81%AB%E5%B1%B1%E5%BC%95%E6%93%8E%E6%90%AD%E5%BB%BA%E6%B7%B1%E5%BA%A6%E7%A0%94%E7%A9%B6%E5%BA%94%E7%94%A8.mp4)
+### 直接观看
+
+您可以直接在 GitHub 上观看视频（点击下方图片播放）：
+
+<video src="video/DeepSeek%20%2B%20%E7%81%AB%E5%B1%B1%E5%BC%95%E6%93%8E%E6%90%AD%E5%BB%BA%E6%B7%B1%E5%BA%A6%E7%A0%94%E7%A9%B6%E5%BA%94%E7%94%A8.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
+如果上方视频无法播放，您也可以：
+
+1. 点击查看视频文件：[DeepSeek + 火山引擎搭建深度研究应用.mp4](video/DeepSeek%20%2B%20%E7%81%AB%E5%B1%B1%E5%BC%95%E6%93%8E%E6%90%AD%E5%BB%BA%E6%B7%B1%E5%BA%A6%E7%A0%94%E7%A9%B6%E5%BA%94%E7%94%A8.mp4)
 
 2. 克隆仓库后在本地观看：
    ```shell
