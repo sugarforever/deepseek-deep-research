@@ -9,6 +9,24 @@ Deep Research 是一款专为应对复杂问题而设计的高效工具，利用
 
 请参考[火山引擎高代码Python SDK Arkitect](https://github.com/volcengine/ai-app-lab)了解更多技术细节。
 
+## 视频演示 (Video Demonstration)
+
+本仓库包含一个视频演示，展示了如何使用 DeepSeek 和火山引擎搭建深度研究应用。您可以通过以下方式观看视频：
+
+1. 直接在 GitHub 上查看：[DeepSeek + 火山引擎搭建深度研究应用.mp4](video/DeepSeek%20%2B%20%E7%81%AB%E5%B1%B1%E5%BC%95%E6%93%8E%E6%90%AD%E5%BB%BA%E6%B7%B1%E5%BA%A6%E7%A0%94%E7%A9%B6%E5%BA%94%E7%94%A8.mp4)
+
+2. 克隆仓库后在本地观看：
+   ```shell
+   $ git clone https://github.com/sugarforever/deepseek-deep-research.git
+   $ cd deepseek-deep-research
+   # 使用您喜欢的视频播放器打开视频文件
+   $ open "video/DeepSeek + 火山引擎搭建深度研究应用.mp4"  # macOS
+   # 或者
+   $ xdg-open "video/DeepSeek + 火山引擎搭建深度研究应用.mp4"  # Linux
+   # 或者
+   $ start "video/DeepSeek + 火山引擎搭建深度研究应用.mp4"  # Windows
+   ```
+
 ## 环境准备
 
 - uv 包管理工具，可参考[安装文档](https://docs.astral.sh/uv/)
